@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
+baseurl = "https://pi-100.onrender.com/"
 languageCode = "en-us"
 title = "PI 100 Ulat 4"
 
@@ -10,9 +10,6 @@ defaultContentLanguage = "en"
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage = false
-
-# Change it to your Disqus shortname before using
-disqusShortname = "hugo-theme-stack"
 
 [pagination]
 pagerSize = 5
