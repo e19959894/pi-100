@@ -12,6 +12,7 @@ weight: 1 # You can add weight to some posts to override the default sorting (da
 ---
 
 > "Mamamatay akong hindi nasisilayan ang pagbubukang-liwayway ng aking bayan. Kayong makakakita nito, tanggapin ninyo ang aming mga pag-aalay at huwag kalilimutan ang mga nalugmok sa dilim ng gabi."
+>
 > - Elias, Noli Me Tangere ni Jose Rizal (Kabanata 63)
 
 Sa mga huling salita ni Elias, nasusumpungan ang katahimikan ng mga hindi binigyan ng pangalan---ang mga anak ng lupa, ang mga katutubong pilit na pinatatahimik at patuloy na niyuyurakan ang karapatan.
