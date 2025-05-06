@@ -9,6 +9,7 @@ categories:
 tags:
     - Ricardo Guwad
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+draft: true
 ---
 
 Sa kasagsagan ng kawalan ng katarungan sa bansang ito, mainanais pa ba ng kaniyang mga anak na ipaglaban ang kanilang Inang Bayan? Ubos na ba ang kakayahan ng Sambayanang Pilipino na magsimula ng pagbabago sa sistemang bulok at nagpapayaman lamang ng mga nasa tuktok?
