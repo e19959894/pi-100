@@ -5,7 +5,7 @@ slug: ang-hirap-lumaban
 date: 2025-05-02 00:00:00+0000
 image: cover.jpg
 categories:
-    - Rebolusyon at Reporma
+    - Reporma at Rebolusyon
 tags:
     - Ricardo Guwad
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)

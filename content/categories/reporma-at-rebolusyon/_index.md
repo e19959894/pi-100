@@ -1,5 +1,5 @@
 ---
-title: Rebolusyon at Reporma
+title: Reporma at Rebolusyon
 description: Sa El Filibusterismo, inilarawan ni Rizal ang isang nabigong himagsikan. Sa kasalukuyang araw, may ihahandog pa ba ang paghihimagsik?
 image:
 
