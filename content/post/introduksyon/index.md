@@ -8,7 +8,7 @@ categories:
   - Reporma at Rebolusyon
 tags:
   - Rick Ancheta
-weight: -1 # You can add weight to some posts to override the default sorting (date descending)
+weight: -2 # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 > Larawan ni [Leodb](https://commons.wikimedia.org/wiki/File:Sunset_Agta_Beach_Resort_-_Biliran_Philippines.jpg) sa [Wikimedia](https://commons.wikimedia.org/)

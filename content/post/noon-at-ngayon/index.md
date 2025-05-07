@@ -8,7 +8,7 @@ categories:
   - Reporma at Rebolusyon
 tags:
   - Vince Lacson
-weight: 1 # You can add weight to some posts to override the default sorting (date descending)
+weight: -1 # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 > Larawan ni [Vicente Dizon](https://commons.wikimedia.org/wiki/Category:Philippine_Revolution#/media/File:Battle_of_Zapote_Bridge_1897.jpg) sa [Wikimedia](https://commons.wikimedia.org/)
