@@ -5,8 +5,8 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
-customText = ""
+since = 2025
+customText = "PI 100 WFQ-1 Ulat 4"
 
 [dateFormat]
 published = "Jan 02, 2006"
@@ -26,7 +26,7 @@ math = false
 readingTime = true
 
 [article.license]
-enabled = true
+enabled = false
 default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
